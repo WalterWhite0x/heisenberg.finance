@@ -1,6 +1,6 @@
 # heisenberg.finance 🧪
 
-Heisenberg.finance is a multi-chain liquidity protocol for emerging token projects. You can join a liquity pool and starts to cook METH.  
+Heisenberg.finance is a multi-chain liquidity protocol for emerging token projects. You can join a liquity pool and start to cook METH.  
 Website : https://heisenberg.finance  
 GithubWiki :  
 
